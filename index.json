@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "bundle-kubeflow",
+  "versions": [
+    {
+      "commit": "8107887543e75d9346c702091cd56719128af422",
+      "tag": "",
+      "parsed_at": "2026-11-08T16:07:05.544869+00:00"
+    }
+  ]
+}
