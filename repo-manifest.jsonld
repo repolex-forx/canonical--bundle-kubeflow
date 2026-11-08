@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/bundle-kubeflow/commit/8107887543e75d9346c702091cd56719128af422",
       "git:hexsha": "8107887543e75d9346c702091cd56719128af422",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
